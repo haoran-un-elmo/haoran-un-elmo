@@ -2,8 +2,6 @@
 
 Things I use for work — hardware, software, and how I've set up Claude.
 
-_Inspired by [uses.tech](https://uses.tech)_
-
 ---
 
 ## 🖥️ Hardware
@@ -17,7 +15,7 @@ _Inspired by [uses.tech](https://uses.tech)_
 
 ## 🛠️ Editor & Terminal
 
-- **Editor:** [e.g. VS Code / Cursor / Neovim]
+- **Editor:** VS Code
 - **Theme:** [placeholder]
 - **Font:** [placeholder]
 - **Shell:** zsh + Oh My Zsh
